@@ -2,9 +2,9 @@
 
 # AND101 Project 6 - CYOAPI Part 2: RecyclerView Edition
 
-Submitted by: **Your Name Here**
+Submitted by: **Eugene Senanu**
 
-Time spent: **X** hours spent in total
+Time spent: **9** hours spent in total
 
 ## Summary
 
@@ -51,7 +51,7 @@ Here's a place for any other notes on the app, it's creation process, or what yo
 
 ## License
 
-Copyright **yyyy** **your name**
+Copyright **2023** **Eugene Senanu**
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
