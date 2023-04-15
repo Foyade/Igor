@@ -19,6 +19,8 @@
         android:layout_width="220dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="28dp"
+        android:fontFamily="@font/patua_one"
+        android:textAppearance="@style/TextAppearance.Quote"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.36"
         app:layout_constraintStart_toEndOf="@id/image"
